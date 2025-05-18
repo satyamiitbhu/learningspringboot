@@ -32,9 +32,15 @@ build/
 ### VS Code ###
 .vscode/
 
-### Files ###
-.gitignore
-.mvnw.cmd
+# Ignore Maven wrapper scripts
 .mvnw
+.mvnw.cmd
+
+# Ignore Git attributes file
 .gitattributes
+
+# macOS metadata file
 .DS_Store
+
+# Ignore the .gitignore file itself (rarely done—see note below)
+.gitignore
