@@ -31,8 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
-.gitignore/
-.mvnw.cmd/
-.mvnw/
-.gitattributes/
-.DS_Store/
+
+### Files ###
+.gitignore
+.mvnw.cmd
+.mvnw
+.gitattributes
+.DS_Store
